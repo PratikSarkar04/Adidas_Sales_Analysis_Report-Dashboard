@@ -2,7 +2,7 @@
 
 This project provides an analysis of Adidas' sales data to reveal insights into market performance, customer preferences, and product trends. Additionally, it considers the impact of marketing campaigns, competitor actions, and economic factors on sales patterns. The objective is to uncover valuable insights that can help Adidas refine its sales strategies, improve customer satisfaction, and sustain growth in a competitive landscape.
 
-The Reports shows the following insights on the the sales -
+## The Reports shows the following insights on the the sales -
 
 1. Identify Sales Trends : Spot patterns in customer behavior, seasonal fluctuations, and product popularity, which help in forecasting future sales.
 2. Evaluate Product Performance : Determine which products are selling well and which aren't, allowing for better inventory management and product promotion strategies.
